@@ -1,0 +1,17 @@
+#error{color:red;
+font-weight:200;}
+button{border:3px solid black;
+color:black;
+background: white;
+cursor:pointer;
+button-radius:20px;
+padding: 10px 16px
+
+}
+p{font-weight:500px;
+margin-bottom:5px;}
+
+span{ text-align:center;
+border:none;
+border-bottom:2px solid black;}
+
